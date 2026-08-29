@@ -1,0 +1,10 @@
+component,code,count,proportion,base_n
+Fact Identification,not_identified,4800,0.4729064039408867,10150
+Fact Identification,no_evidence_report,1234,0.12157635467980296,10150
+Fact Identification,substantive_fact_report,4116,0.40551724137931033,10150
+Relational Bridging,explicit_bridge,1730,0.4203109815354713,4116
+Relational Bridging,weak_bridge,1627,0.39528668610301265,4116
+Relational Bridging,no_bridge,759,0.18440233236151604,4116
+Sufficiency Judgment,explicit_reasoning,3062,0.5723364485981308,5350
+Sufficiency Judgment,label_implied_only,2288,0.4276635514018692,5350
+Sufficiency Judgment,no_reasoning,0,0.0,5350

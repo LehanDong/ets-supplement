@@ -1,0 +1,2 @@
+"comparison","ordinal_df","categorical_df","likelihood_ratio_chisq","df_difference","p_value","preferred_by_AIC"
+"ordinal_random_intercept_vs_categorical_random_intercept",7,16,72.9640427659578,9,3.98274518628112e-12,"categorical"

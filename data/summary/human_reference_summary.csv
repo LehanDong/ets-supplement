@@ -1,0 +1,9 @@
+metric,model,estimate,ci_low,ci_high
+three_class_agreement,DeepSeek,0.574915,0.532881,0.617627
+three_class_agreement,Doubao/Seed,0.633898,0.589153,0.677288
+human_1_to_model_1,DeepSeek,0.838828,0.79078,0.885932
+human_1_to_model_1,Doubao/Seed,0.74359,0.688645,0.79845
+human_0_to_model_1,DeepSeek,0.182022,0.13198,0.229581
+human_0_to_model_1,Doubao/Seed,0.078652,0.049587,0.109865
+human_9_to_model_1,DeepSeek,0.188904,0.152717,0.228571
+human_9_to_model_1,Doubao/Seed,0.07926,0.058824,0.103395

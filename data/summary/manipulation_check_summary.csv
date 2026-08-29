@@ -1,0 +1,6 @@
+level,relation_explicitness_mean,relation_explicitness_sd,fact_availability_mean,fact_availability_sd
+B0,1.2,0.3,2.8,0.6
+B1,1.4,0.4,3.5,0.5
+B2,2.5,0.5,3.6,0.5
+B3,4.1,0.4,3.7,0.4
+B4,4.3,0.3,3.8,0.5
